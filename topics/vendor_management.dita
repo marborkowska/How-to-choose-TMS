@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="vendor_management">
+    <title>Go-Live</title>
+    <shortdesc>Once you have made your <xref href="how_to_make_a_final_decision.dita"
+            >decision</xref>, it's time to think how to move your process to the selected
+        TMS.</shortdesc>
+    <conbody>
+        <p>You thought it took a long time to make up your mind on which TMS to choose for your
+            company, but it may take even longer to prepare the whole go-live process. Draft a plan
+            involving your internal stakeholders, translation resources and vendors - there are so
+            many aspects to cover. And... once again remember about the deadline you set
+            earlier.</p>
+        <p>The final process should include the following steps:</p>
+        <p>
+            <ul id="ul_itd_cjx_gtb">
+                <li><xref href="preparing_for_launch.dita">Preparing for launch</xref></li>
+                <li><xref href="access_rights.dita">Managing user access rights and
+                    roles</xref></li>
+                <li><xref href="how_to_integrate_your_vendors_in_xtm.dita">Setting up TMS to work
+                        with your vendors</xref></li>
+                <li><xref href="best_practices_of_cooperation.dita">Agreeing on best cooperation
+                        practices</xref></li>
+            </ul>
+        </p>
+    </conbody>
+</concept>

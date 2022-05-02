@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
+<glossentry id="inline_tag">
+    <glossterm>Inline tag</glossterm>
+    <glossdef>It is a label that define the way a certain information should be processed. In CAT
+        tools generally, tags are used to mark parts of a text that correspond to: <ul
+            id="ul_psd_tjh_3tb">
+            <li>different formatting i.e. different fonts, font sizes, line breaks or colors</li>
+            <li>internal code (e.g. HTML, index entries or cross-references)</li>
+            <li>other special characters</li>
+        </ul>However, sometimes they are just minor (or even invisible) changes.</glossdef>
+</glossentry>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="machine_translation">
+    <title>Machine translation</title>
+    <shortdesc><xref href="../glossary/g_machine_translation.dita">Machine translation</xref>
+        engines are third-party systems that are not standard components of a TMS. </shortdesc>
+    <conbody>
+        <p>A company that wants to use MT needs to have an account with an MT provider or configure
+            a custom engine. Only then is it possible to connect the MT engine to TMS via an
+            interface.</p>
+        <p>In TMS you mostly use it in combination with <b><xref
+                    href="../glossary/g_post_editing.dita">post-editing service</xref></b> to
+            combine the advantages of both options: the speed and ability of MT engines to quickly
+            handle large volumes of text with the skill and sensitivity of trained linguists.</p>
+        <p>As a result, it is important to choose a TMS that offers a range of fully managed engines
+            from leading MT providers. In addition, you should be able to choose <b>more than one
+                engine</b>, because you may decide to use one for a particular language pair or
+            domain and another for a different one.</p>
+        <p>For more information on machine translation performance for different language pairs and
+            content, consult the <xref href="https://go.memsource.com/machine-translation-report"
+                format="html" scope="external">Memsource Machine Translation Report</xref> or the
+                <xref
+                href="https://try.inten.to/machine-translation-report-2021/?_ga=2.234064026.560105315.1649773908-478560454.1649498107&amp;_gl=1*e8905i*_ga*NDc4NTYwNDU0LjE2NDk0OTgxMDc.*_ga_8ER1RD0745*MTY0OTg1MjczNy4zLjAuMTY0OTg1MjczNy4w"
+                format="html" scope="external">State of Machine Translation report</xref> by
+            Intento.</p>
+        <p>Here is a choice available in XTM:</p>
+        <p>
+            <fig id="fig_err_p1l_jtb">
+                <title>Machine translation engines in XTM</title>
+                <image href="../images/MT%20engines.jpg" scale="60" id="image_frr_p1l_jtb">
+                    <alt>Machine translation engines in XTM</alt>
+                </image>
+            </fig>
+        </p>
+        <p>What you should also note is the ability to choose an MT hub (e.g. <xref
+                href="https://inten.to/" format="html" scope="external">Intento</xref>) or the
+            option to <i>add your custom MT</i> (e.g. the one you have created yourself or the one
+            developed by a third-party provider).</p>
+        <p>After you decide on an MT engine or engines, all you need to do is create an account with
+            a given provider, subscribe to a selected plan, and get an authentication key for CAT
+            tools to be copied to a relevant place.</p>
+        <p>
+            <fig id="fig_q11_x1l_jtb">
+                <title>MT authentication in XTM</title>
+                <image href="../images/DeepL.jpg" scale="70" id="image_r11_x1l_jtb">
+                    <alt>MT authentication in XTM</alt>
+                </image>
+            </fig>
+        </p>
+        <p>You should also decide how this MT engine will work for your translation projects. All in
+            all, with it you get another support in addition to your <abbreviated-form
+                keyref="g_translation_memory"/>. When you have some TM matches, you send these to an
+            MT engine to fill in the blanks, creating an opportunity to leverage existing resources
+            in an innovative way.</p>
+        <p>
+            <fig id="fig_kpn_51l_jtb">
+                <title>MT leverage options in XTM</title>
+                <image href="../images/General%20options.jpg" scale="70" id="image_lpn_51l_jtb">
+                    <alt>MT leverage options in XTM</alt>
+                </image>
+            </fig>
+        </p>
+        <p>A great benefit of using MT in a TMS is that you use its <b>secure version</b> in
+            comparison to the free web-based tool. Your texts are never stored or used by an MT
+            provider to improve its engine.</p>
+        <p>In addition, while working in XTM, you can translate all <xref href="file_formats.dita"
+                >supported file formats</xref> using an MT engine, and not only a few selected files
+            (e.g. Word or PowerPoint).</p>
+    </conbody>
+</concept>

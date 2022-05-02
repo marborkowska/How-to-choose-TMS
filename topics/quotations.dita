@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="quotations">
+    <title>Purchase orders</title>
+    <shortdesc>A Purchase Order is the specification of costs that your vendors (e.g. translators,
+        LSPs) will charge you. </shortdesc>
+    <conbody>
+        <p>You can generate it easily before your vendors start working on the project. Based on the
+            data entered in <xref href="rate_cards.dita">rate cards</xref>, you can generate a
+            Purchase Order (PO) easily for every translation project created in XTM and assigned to
+            a linguist or an <xref href="../glossary/g_lsp.dita">LSP</xref>.</p>
+        <p>You only need to go to <i>Project Editor</i> > <i>Estimates</i> and click on<i>
+                Generate</i>.</p>
+        <p>
+            <fig id="fig_x1z_3vk_jtb">
+                <title>How to generate PO in XTM</title>
+                <image href="../images/PO%20generate.jpg" scale="60" id="image_y1z_3vk_jtb">
+                    <alt>How to generate Purchase Order in XTM</alt>
+                </image>
+            </fig>
+        </p>
+        <p>You can generate costs based on: metrics, current metrics, statistics source or
+            statistics target. In <i>Data</i> > <i>Estimates </i>> <i>PO settings</i> you can choose
+            e.g. a calculation method (subtraction/addition) and other features that should be
+            included in the file and work best for you.</p>
+        <p>A Purchase Order is a .pdf or .xls file showing all the metrics and the final price you
+            will pay for this translation. You can also generate a <i>Custom PO</i> if needed, where
+            the costs can be broken down into particular language pairs and workflow steps.</p>
+        <p>
+            <fig id="fig_mt4_g3h_3tb">
+                <title>Sample Purchase Order from XTM</title>
+                <image href="../images/Sample%20PO.jpg" scale="50" id="image_nt4_g3h_3tb">
+                    <alt>Sample Purchase Order from XTM</alt>
+                </image>
+            </fig>
+        </p>
+        <p>You can send this file to your vendor by email or request that XTM does it for you
+            directly using feature <i>Email PO to Linguist</i>.</p>
+        <p>XTM also gives you an opportunity to enter your own cost settings, exchange rates and
+            proposal factors to make finance management for translation projects easy.</p>
+        <p>
+            <note id="note_wzr_5fm_jtb">If you work for an LSP, you could benefit from the fact that
+                the <i>Estimates</i> tab where all costs are generated, is divided into 2 sections:
+                    <i>Proposal</i> and <i>Costs</i>. Depending on your XTM configuration, one of
+                them can be used to show how much you will charge your customer. As a result, you
+                can generate two POs: one for your vendor and one for your customer.</note>
+        </p>
+    </conbody>
+</concept>

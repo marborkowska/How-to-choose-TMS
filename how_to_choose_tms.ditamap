@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>How to choose and start working with the right TMS for your company</title>
+    <topicref href="topics/introduction.dita">
+        <topicref href="topics/what_is_tms.dita"/>
+        <topicref href="topics/how_does_it_differ_from_cat.dita"/>
+        <topicref href="topics/cloud_vs__onsite_system.dita"/>
+        <topicref href="topics/public_vs__private_cloud.dita"/>
+        <topicref href="topics/market_overview.dita"/>
+    </topicref>
+    <topicref href="topics/tms_in_the_corporate_language_policy.dita">
+        <topicref href="topics/which_companies_need_a_tms.dita"/>
+        <topicref href="topics/what_are_common_concerns_about_using_a_tms.dita"/>
+        <topicref href="topics/future_of_tmss.dita"/>
+    </topicref>
+    <topicref href="topics/how_to_make_a_final_decision.dita">
+        <topicref href="topics/analysing.dita"/>
+        <topicref href="topics/researching.dita"/>
+        <topicref href="topics/roi.dita"/>
+    </topicref>
+    <topicref href="topics/key_tms_features.dita">
+        <topicref href="topics/project_management.dita">
+            <topicref href="topics/searcher.dita"/>
+            <topicref href="topics/notifications.dita"/>
+            <topicref href="topics/analytics.dita"/>
+            <topicref href="topics/workflows.dita"/>
+            <topicref href="topics/working_outside.dita"/>
+            <topicref href="topics/file_formats.dita"/>
+            <topicref href="topics/anonymization.dita"/>
+            <topicref href="topics/mobile_version.dita"/>
+        </topicref>
+        <topicref href="topics/finance_management.dita">
+            <topicref href="topics/rate_cards.dita"/>
+            <topicref href="topics/quotations.dita"/>
+        </topicref>
+        <topicref href="topics/content_management.dita">
+            <topicref href="topics/alignment.dita"/>
+            <topicref href="topics/terminology_extraction.dita"/>
+            <topicref href="topics/tm_management.dita"/>
+            <topicref href="topics/term_bases.dita"/>
+            <topicref href="topics/concordance.dita"/>
+            <topicref href="topics/language_variants.dita"/>
+        </topicref>
+        <topicref href="topics/translation_editor_workbench.dita">
+            <topicref href="topics/dealing_with_inline_tags.dita"/>
+            <topicref href="topics/preview.dita"/>
+            <topicref href="topics/filtering.dita"/>
+            <topicref href="topics/offline_editor.dita"/>
+        </topicref>
+        <topicref href="topics/quality_management.dita">
+            <topicref href="topics/automatic_qa.dita"/>
+            <topicref href="topics/lqa.dita"/>
+        </topicref>
+        <topicref href="topics/machine_translation.dita"/>
+        <topicref href="topics/connectors.dita"/>
+        <topicref href="topics/security.dita"/>
+        <topicref href="topics/documentation.dita"/>
+        <topicref href="topics/support.dita"/>
+        <topicref href="topics/product_development.dita"/>
+    </topicref>
+    <topicref href="topics/vendor_management.dita">
+        <topicref href="topics/preparing_for_launch.dita"/>
+        <topicref href="topics/access_rights.dita"/>
+        <topicref href="topics/how_to_integrate_your_vendors_in_xtm.dita"/>
+        <topicref href="topics/best_practices_of_cooperation.dita"/>
+    </topicref>
+    <reltable>
+        <relrow>
+            <relcell>
+                <topicref href="topics/introduction.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="topics/future_of_tmss.dita"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="topics/introduction.dita" linking="sourceonly"/>
+            </relcell>
+            <relcell linking="targetonly">
+                <topicref href="topics/roi.dita" linking="targetonly"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="topics/tms_in_the_corporate_language_policy.dita"
+                    linking="sourceonly"/>
+            </relcell>
+            <relcell>
+                <topicref href="topics/what_is_tms.dita" linking="targetonly"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="topics/researching.dita" linking="sourceonly"/>
+            </relcell>
+            <relcell>
+                <topicref href="topics/market_overview.dita" linking="targetonly"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="topics/researching.dita" linking="sourceonly"/>
+            </relcell>
+            <relcell>
+                <topicref href="topics/key_tms_features.dita" linking="targetonly"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="topics/analysing.dita" linking="sourceonly"/>
+            </relcell>
+            <relcell>
+                <topicref href="topics/cloud_vs__onsite_system.dita" linking="targetonly"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="topics/how_to_make_a_final_decision.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="topics/vendor_management.dita"/>
+            </relcell>
+        </relrow>
+    </reltable>
+    <topicref href="glossary/glossary.ditamap" format="ditamap"/>
+</map>

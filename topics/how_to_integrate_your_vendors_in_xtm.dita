@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_integrate_your_vendors_in_xtm">
+    <title>Setting up TMS to work with your vendors</title>
+    <shortdesc>This is how you can set up the TMS environment for your translation vendors based on
+        the XTM example.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_e3x_jqw_gtb">Make sure you have migrated all <xref
+                href="../glossary/g_translation_memory.dita">TMs</xref> and <xref
+                href="../glossary/g_termbase.dita">TBs</xref> to your new TMS. List all vendors who
+            are willing to work in the TMS and sign all the necessary agreements with them.</prereq>
+        <context>Follow these steps to ensure that your vendors are integrated in the TMS.</context>
+        <steps>
+            <step>
+                <cmd>Create an account for your vendor.</cmd>
+                <substeps id="substeps_gft_hvf_ftb">
+                    <substep>
+                        <cmd>For translator/reviewer, choose the <i>Linguist</i> role and assign
+                            relevant workflows (e.g. Translate, Correct).</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>For <xref href="../glossary/g_lsp.dita">LSP</xref>, use the <i><xref
+                                    href="https://help.xtm.cloud/xtm-cloud/13/en/overview.html"
+                                    format="html" scope="external">Subcontracting</xref></i>
+                            feature.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Ask you vendor to go through the setting up process. It includes <xref
+                        href="https://help.xtm.cloud/xtm-cloud/13/en/computer-activation-for-xtm-cloud.html"
+                        format="html" scope="external">computer activation</xref> (for all users)
+                    and <xref
+                        href="https://help.xtm.cloud/xtm-cloud/13/en/setting-up-a-connection-with-xtm-contractor.html"
+                        format="html" scope="external">setting up a connection</xref> (for
+                    LSPs).</cmd>
+                <stepresult>You will receive a notification that this process was
+                    successful.</stepresult>
+            </step>
+            <step>
+                <cmd>Complete your vendor's language pairs, billing details and rates.</cmd>
+            </step>
+            <step>
+                <cmd><option>Optionally:</option> Assign a relevant number of licences to your
+                    vendor.</cmd>
+            </step>
+            <step>
+                <cmd>Create a test project for your vendor. LSPs should set up accounts for their
+                    PMs and linguists and check workflows.</cmd>
+                <stepresult>The vendor confirms to be ready to work in the TMS.</stepresult>
+            </step>
+            <step>
+                <cmd>Send all training materials to your vendor, such as user manuals and checklist
+                    (if any).</cmd>
+            </step>
+            <step>
+                <cmd>Create a real project in the TMS, assign it to your vendor, and start
+                    working.</cmd>
+                <info>
+                    <note id="note_bzc_4sl_htb">LSPs can decide to buy their own licences, use free
+                        accounts, or combine both options.</note>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

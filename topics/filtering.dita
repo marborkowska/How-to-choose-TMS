@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="filtering">
+    <title>Filtering</title>
+    <shortdesc>You choose a TMS for time and cost savings so one way to make you and your linguists
+        work faster is to use <b>filters</b> in the text editor. </shortdesc>
+    <conbody>
+        <p>Filtering speeds up both the translation and review process, and makes the terminology
+            more coherent. By using it, linguists can focus on specific segments, especially in case
+            of bigger files.</p>
+        <p>It is also very important to have <b>quick access to filters</b>. In XTM you can use them
+            directly from the top menu in Workbench. In addition, you can quickly set up your
+                <b>favourite filters</b> and you will see the ones you used last. As an additional
+            feature you can create <b>advanced, customized filters</b> by joining two or more
+            segment filters together.</p>
+        <p>Each linguist and PM should be able to see <b>filters grouped in categories</b> such as:
+            status, invalid, modification, match, inconsistency and <b>exclude</b> them from being
+            displayed.</p>
+        <p>Here are some of available filters in XTM:</p>
+        <p>
+            <fig id="fig_dny_hbl_jtb">
+                <title>Some filters available in XTM</title>
+                <image href="../images/Filters.jpg" scale="60" id="image_eny_hbl_jtb">
+                    <alt>Some filters available in XTM</alt>
+                </image>
+            </fig>
+        </p>
+        <p>Filters are a great way to save on costs, e.g. if you pay hourly rates, your linguists
+            spend less time on browsing through huge files. You can also send only new and modified
+            texts for translation by filtering out all 100% and 101% matches so you will pay much
+            less. This is extremely useful in the case of files with a lot of reused content for
+            which you still pay for matches.</p>
+    </conbody>
+</concept>

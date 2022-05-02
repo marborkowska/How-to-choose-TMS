@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="introduction" path="topics/introduction.html"/>
+   <appContext helpID="what_is_tms" path="topics/what_is_tms.html"/>
+   <appContext helpID="how_does_it_differ_from_cat"
+               path="topics/how_does_it_differ_from_cat.html"/>
+   <appContext helpID="cloud_vs_onsite_system"
+               path="topics/cloud_vs__onsite_system.html"/>
+   <appContext helpID="public_vs_private_cloud"
+               path="topics/public_vs__private_cloud.html"/>
+   <appContext helpID="market_overview1" path="topics/market_overview.html"/>
+   <appContext helpID="tms_in_the_corporate_language_policy"
+               path="topics/tms_in_the_corporate_language_policy.html"/>
+   <appContext helpID="which_companies_need_a_tms"
+               path="topics/which_companies_need_a_tms.html"/>
+   <appContext helpID="what_are_common_concerns_about_using_a_tms"
+               path="topics/what_are_common_concerns_about_using_a_tms.html"/>
+   <appContext helpID="future_of_tmss" path="topics/future_of_tmss.html"/>
+   <appContext helpID="how_to_make_a_final_decision"
+               path="topics/how_to_make_a_final_decision.html"/>
+   <appContext helpID="analysing" path="topics/analysing.html"/>
+   <appContext helpID="researching" path="topics/researching.html"/>
+   <appContext helpID="roi" path="topics/roi.html"/>
+   <appContext helpID="key_tms_features" path="topics/key_tms_features.html"/>
+   <appContext helpID="project_management" path="topics/project_management.html"/>
+   <appContext helpID="searcher" path="topics/searcher.html"/>
+   <appContext helpID="notifications" path="topics/notifications.html"/>
+   <appContext helpID="analytics" path="topics/analytics.html"/>
+   <appContext helpID="workflows" path="topics/workflows.html"/>
+   <appContext helpID="working_outside" path="topics/working_outside.html"/>
+   <appContext helpID="file_formats" path="topics/file_formats.html"/>
+   <appContext helpID="anonymization" path="topics/anonymization.html"/>
+   <appContext helpID="mobile_version" path="topics/mobile_version.html"/>
+   <appContext helpID="finance_management" path="topics/finance_management.html"/>
+   <appContext helpID="rate_cards" path="topics/rate_cards.html"/>
+   <appContext helpID="quotations" path="topics/quotations.html"/>
+   <appContext helpID="content_management" path="topics/content_management.html"/>
+   <appContext helpID="alignment" path="topics/alignment.html"/>
+   <appContext helpID="terinology_extraction"
+               path="topics/terminology_extraction.html"/>
+   <appContext helpID="tm_management" path="topics/tm_management.html"/>
+   <appContext helpID="term_bases" path="topics/term_bases.html"/>
+   <appContext helpID="concordance" path="topics/concordance.html"/>
+   <appContext helpID="language_variants" path="topics/language_variants.html"/>
+   <appContext helpID="translation_editor_workbench"
+               path="topics/translation_editor_workbench.html"/>
+   <appContext helpID="dealing_with_inline_tags"
+               path="topics/dealing_with_inline_tags.html"/>
+   <appContext helpID="preview" path="topics/preview.html"/>
+   <appContext helpID="filtering" path="topics/filtering.html"/>
+   <appContext helpID="offline_editor" path="topics/offline_editor.html"/>
+   <appContext helpID="quality_management" path="topics/quality_management.html"/>
+   <appContext helpID="automatic_qa" path="topics/automatic_qa.html"/>
+   <appContext helpID="lqa" path="topics/lqa.html"/>
+   <appContext helpID="machine_translation" path="topics/machine_translation.html"/>
+   <appContext helpID="connectors" path="topics/connectors.html"/>
+   <appContext helpID="security" path="topics/security.html"/>
+   <appContext helpID="documentation" path="topics/documentation.html"/>
+   <appContext helpID="support" path="topics/support.html"/>
+   <appContext helpID="product_development" path="topics/product_development.html"/>
+   <appContext helpID="vendor_management" path="topics/vendor_management.html"/>
+   <appContext helpID="preparing_for_launch" path="topics/preparing_for_launch.html"/>
+   <appContext helpID="access_rights" path="topics/access_rights.html"/>
+   <appContext helpID="how_to_integrate_your_vendors_in_xtm"
+               path="topics/how_to_integrate_your_vendors_in_xtm.html"/>
+   <appContext helpID="best_practices_of_cooperation"
+               path="topics/best_practices_of_cooperation.html"/>
+   <appContext helpID="introduction" path="topics/introduction.html"/>
+   <appContext helpID="future_of_tmss" path="topics/future_of_tmss.html"/>
+   <appContext helpID="introduction" path="topics/introduction.html"/>
+   <appContext helpID="roi" path="topics/roi.html"/>
+   <appContext helpID="tms_in_the_corporate_language_policy"
+               path="topics/tms_in_the_corporate_language_policy.html"/>
+   <appContext helpID="what_is_tms" path="topics/what_is_tms.html"/>
+   <appContext helpID="researching" path="topics/researching.html"/>
+   <appContext helpID="market_overview1" path="topics/market_overview.html"/>
+   <appContext helpID="researching" path="topics/researching.html"/>
+   <appContext helpID="key_tms_features" path="topics/key_tms_features.html"/>
+   <appContext helpID="analysing" path="topics/analysing.html"/>
+   <appContext helpID="cloud_vs_onsite_system"
+               path="topics/cloud_vs__onsite_system.html"/>
+   <appContext helpID="how_to_make_a_final_decision"
+               path="topics/how_to_make_a_final_decision.html"/>
+   <appContext helpID="vendor_management" path="topics/vendor_management.html"/>
+   <appContext helpID="r_glossary" path="glossary/r_glossary.html#r_glossary"/>
+   <appContext helpID="g_dpa" path="glossary/r_glossary.html#g_dpa"/>
+   <appContext helpID="fuzzy_matches" path="glossary/r_glossary.html#fuzzy_matches"/>
+   <appContext helpID="inline_tag" path="glossary/r_glossary.html#inline_tag"/>
+   <appContext helpID="g_localization" path="glossary/r_glossary.html#g_localization"/>
+   <appContext helpID="g_lsp" path="glossary/r_glossary.html#g_lsp"/>
+   <appContext helpID="g_machine_translation"
+               path="glossary/r_glossary.html#g_machine_translation"/>
+   <appContext helpID="nda" path="glossary/r_glossary.html#nda"/>
+   <appContext helpID="g_post_editing" path="glossary/r_glossary.html#g_post_editing"/>
+   <appContext helpID="SLA" path="glossary/r_glossary.html#SLA"/>
+   <appContext helpID="g_termbase" path="glossary/r_glossary.html#g_termbase"/>
+   <appContext helpID="g_translation_memory"
+               path="glossary/r_glossary.html#g_translation_memory"/>
+</map>

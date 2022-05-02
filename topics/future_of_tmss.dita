@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="future_of_tmss">
+    <title>Future of TMSs in business setting</title>
+    <shortdesc>Translation Management Systems are a novelty in the industry, but they still undergo
+        many improvements.</shortdesc>
+    <conbody>
+        <p>Here are some trends that we may expect TMSs to follow in the future:</p>
+        <ul id="ul_wz5_jvx_2tb">
+            <li><b>interoperability with different CMSs</b> – so that content managers could be able
+                to order translations within their own environment and save on licensing costs</li>
+            <li><b>connectivity with <xref href="https://en.wikipedia.org/wiki/Authoring_system"
+                        format="html" scope="external">text authoring tools</xref></b> – so that
+                technical writers could leverage on the existing multilingual content</li>
+            <li><b>incorporation of business management functions</b> – to preview the localization
+                cost and time-frame</li>
+            <li><b>integration with other enterprise systems</b> – such as general ledger
+                applications and sales force automation tools</li>
+            <li><b>better TM leveraging</b> – so that project managers could make the best possible
+                use of their translation memories. For example, XTM's algorithm has been enhanced to
+                deliver up to 25% improved accuracy, enabling users to leverage more TM matches in
+                segments which differ only by the order of words or proper nouns. Plus, it gives the
+                savings that come from the fact that the fuzzy matching calculation score algorithm
+                was able to retrieve the TM match, as opposed to standard algorithms which would
+                assign too low a score to this example or possibly fail to retrieve it at all.</li>
+            <li>
+                <b>AI-enhanced TM features</b> – so that fuzzy matches coming from the TM could be
+                directly sent to MT engine, enabling TM and MT to work together to deliver the best
+                match possible. This is particularly useful when the source text could be translated
+                in a number of different ways. It can solve the problem of lacking or inconsistent
+                context in machine translation. This feature is also already available in XTM.</li>
+        </ul>
+    </conbody>
+</concept>

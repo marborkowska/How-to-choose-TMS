@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_tms">
+    <title>What is a TMS?</title>
+    <shortdesc>A <b>translation management system (TMS)</b> is a type of software used for
+        comprehensive work with translation projects. It is a centralized platform that comprises
+        various tools, performs an abundance of tasks, and allows to achieve numerous
+        goals</shortdesc>
+    <conbody>
+        <p>Through its process optimization and linguistic technology features, each TMS aims
+            to:</p>
+        <ul id="ul_fkt_cr1_zsb">
+            <li>automate repeatable and non-essential tasks done by a project manager in the
+                translation process </li>
+            <li>maximise translator efficiency</li>
+            <li>reduce costs </li>
+            <li>cut down on processing time</li>
+            <li>monitor the translation status</li>
+            <li>standardise cooperation with translation vendors</li>
+            <li>ensure transparency of workflows</li>
+            <li>integrate with existing corporate systems</li>
+            <li>store completed translations</li>
+        </ul>
+        <p>As a result, a TMS is a complex content management tool used in the translation and
+            localization process, that comprises:</p>
+        <ul id="ul_ygf_kr1_zsb">
+            <li>translation editor</li>
+            <li>quality assurance tool</li>
+            <li>translation memory management</li>
+            <li>terminology database</li>
+            <li>finance management tools</li>
+            <li>API interface for connection with other systems and engines (CMS, machine
+                translation, other third-party systems)</li>
+        </ul>
+        <p>All of these parts support and accelerate the translation process.</p>
+        <section id="section_em3_s4j_jtb">
+            <title>Brief history of TMS</title>
+            <p>Here is how a TMS originated:</p>
+            <p>
+                <ul id="ul_wgb_54j_jtb">
+                    <li><i>2000s</i>: CAT tools enter the translation industry and make a
+                        revolution: from paper-based and document-only translation process to
+                        translation memories and working on segments in a dedicated software</li>
+                    <li><i>2010</i>: first on-premise TMSs appear on the market and are used by
+                        global enterprises</li>
+                    <li><i>2015</i>: TMSs move to the cloud as a result it is easier and quicker to
+                        share translation resources with all process participants</li>
+                    <li><i>2020</i>: the pandemic accelerated the process of shifting to cloud-based
+                        TMSs to enable home office in dispersed environments. Due to rapid
+                        deployment of additional features, today's systems are rather advanced hubs
+                        for dealing with content technologies (from file management, financial
+                        reporting, machine translation and integration with other systems for more
+                        automated workflows).</li>
+                </ul>
+            </p>
+        </section>
+    </conbody>
+</concept>
