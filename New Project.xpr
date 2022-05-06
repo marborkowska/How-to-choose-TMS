@@ -30,7 +30,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>topics/future_of_tmss.dita</String>
+                                    <String>topics/introduction.dita</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -50,7 +50,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>topics/introduction.dita</String>
+                                    <String>topics/future_of_tmss.dita</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -312,7 +312,7 @@
                                     <String>${cfd}</String>
                                 </field>
                                 <field name="outputDir">
-                                    <String>${cfd}/out/pdf-css-html5</String>
+                                    <String>${cfd}/docs</String>
                                 </field>
                                 <field name="tempDir">
                                     <String>${cfd}/temp/pdf-css-html5</String>
